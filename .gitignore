@@ -1,0 +1,24 @@
+# Player Data
+/advancements/*.json
+/playerdata/*.dat*
+/stats/*.json
+
+# Mod Data
+/serverconfig/
+*capabilities.dat
+
+# Extraneous
+level.dat_*
+
+# Required Files
+# Source: https://minecraft.gamepedia.com/Java_Edition_level_format
+!/advancements/
+!/data/
+!/datapacks/
+!/DIM1/
+!/DIM-1/
+!/playerdata/
+!/region/
+!/stats/
+!/level.dat
+!/session.lock
