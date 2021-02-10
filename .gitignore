@@ -8,4 +8,6 @@
 *capabilities.dat
 
 # Extraneous
+*poi/
+*.mcr
 level.dat_*
