@@ -8,6 +8,8 @@
 *capabilities.dat
 
 # Extraneous
+DIM*/
 *poi/
 *.mcr
 level.dat_*
+session.lock
